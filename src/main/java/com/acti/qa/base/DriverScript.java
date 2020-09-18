@@ -13,7 +13,11 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
         /* Tester= Dhruval Rao
            Date Created=9/9/20		
            Verified by= Shantosh
-           Description=Parent Script */
+           Description=Parent Script
+           
+           verified and validate by=santosh
+            
+            */
 
 
 public class DriverScript {
